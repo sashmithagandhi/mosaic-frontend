@@ -300,4 +300,4 @@ function Workspace() {
   )
 }
 
-export default Workspacex
+export default Workspace
